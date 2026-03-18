@@ -5,3 +5,4 @@ Wallet: sania21.base.eth
 Wallet activity continues to grow on Base.
 Using this wallet for ecosystem exploration.
 Tracking long-term activity across Base apps.
+Public wallet reference kept for documentation.
